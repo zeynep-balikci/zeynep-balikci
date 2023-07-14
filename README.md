@@ -10,4 +10,4 @@ Ce GitHub contient les projets effectués pendant le master :
 
 - Semestre 2 : UE Bases de données relationnelles 
 
-    - Création d'une application avec Django, PostgreSQL et Python : _Projet_BDDR_
+    - Création d'une application avec Django, PostgreSQL et Python : _Projet_BDDR_ (projet mentionné sur le CV)
